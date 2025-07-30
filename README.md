@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Serdar Çalışkan (Sravdar)
+# 👋 Hi, I'm Serdar (aka Sravdar)
 
 **Embedded Systems Engineer & Cross-Platform Developer**
 
