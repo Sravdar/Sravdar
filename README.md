@@ -12,23 +12,34 @@ I specialize in designing robust, real-time embedded software and cross-platform
 - Actively codding in **C**, **C#**, **Dart** and **Typescript**
 - Developing mobile, desktop and embedded apps using **Flutter**
 
-I am passionate about learning more. ((instert link to what i am learning title)
-
 ---
 
 ## 🔌 Tech Stack
 
 | Domain                  | Tools / Languages                      |
 |------------------------|----------------------------------------|
-| Embedded Systems       | C, C++, Embedded Linux, RTOS           |
+| Embedded Systems       | C, Bare Metal, RTOS, Embedded Linux    |
 | Application Development| Flutter, Dart, C#, .NET, Typescript    |
 | Scripting & Automation | Python, Bash                           |
 
 ---
 
+## 📚 What I Am Learning
+
+I'm currently deepening my skills in:
+
+* **Rust** – for building safe, performant, low-level systems
+
+Future interests include:
+
+* **Go** – exploring its simplicity and concurrency model for system tools and backend services
+* **C++** – revisiting modern C++ for embedded systems and performance-critical applications
+
+---
+
 ## 💬 Interaction & Collaboration
 
-I actively participate in GitHub issue discussions, offering help and technical insight within my capabilities. Whether it’s debugging low level behavior or contributing to thirdparty projects with reproducible bug reports, I value clear, actionable communication.
+I actively participate in GitHub issue discussions, offering help and technical insight within my capabilities. Whether it’s debugging low level behavior or contributing to third-party projects with reproducible bug reports, I value clear, actionable communication.
 
 ---
 
@@ -36,5 +47,5 @@ I actively participate in GitHub issue discussions, offering help and technical 
 
 Feel free to explore my activity or reach out if you're working on something cool in embedded or Flutter space.
 
-- GitHub: [@Sravdar](https://github.com/Sravdar)
 - Open to discussions and collaborations.
+- Contact me from [issues page](https://github.com/Sravdar/Sravdar/issues).
