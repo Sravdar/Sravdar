@@ -29,17 +29,17 @@ I specialize in designing robust, real-time embedded software and cross-platform
 I'm currently deepening my skills in:
 
 * **Rust** – for building safe, performant, low-level systems
-
+* **Go** – exploring its simplicity and concurrency model for system tools and backend services
+* 
 Future interests include:
 
-* **Go** – exploring its simplicity and concurrency model for system tools and backend services
 * **C++** – revisiting modern C++ for embedded systems and performance-critical applications
 
 ---
 
 ## 💬 Interaction & Collaboration
 
-I actively participate in GitHub issue discussions, offering help and technical insight within my capabilities. Whether it’s debugging low level behavior or contributing to third-party projects with reproducible bug reports, I value clear, actionable communication.
+I actively participate in GitHub issue discussions, offering help and technical insight within my capabilities. Whether it’s debugging low level behavior or contributing to third-party projects with reproducible bug reports.
 
 ---
 
